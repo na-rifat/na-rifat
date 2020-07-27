@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<!--
-**na-rifat/na-rifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Laravel
+- 👯 I’m looking to collaborate on any web Dev and desktop dev project.
+- 🤔 I’m looking for help with laravel
+- 💬 Ask me about Desktop Dev and Web Dev
+- 📫 How to reach me: noorealamrifat@gmail.com
+
+
 
 [![Nazmul's github stats](https://github-readme-stats.vercel.app/api?username=na-rifat)](https://github.com/na-rifat/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-rifat&layout=compact)](https://github.com/na-rifat/github-readme-stats)
