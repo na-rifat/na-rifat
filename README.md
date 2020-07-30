@@ -1,4 +1,9 @@
-### Hi there 👋
+ ## Noor-E-Alam Rifat 👋
+ 
+ ## Programming Languages
+```
+Visual Basic .Net, C, JavaScript, PHP, HTML5, CSS3
+```
 
 
 
