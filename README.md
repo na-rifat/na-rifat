@@ -14,7 +14,7 @@ Visual Basic .Net, C, JavaScript, PHP, HTML5, CSS3
 - 👯 I’m looking to collaborate on any web Dev and desktop dev project.
 - 🤔 I’m looking for help with laravel
 - 💬 Ask me about Desktop Dev and Web Dev
-- 📫 How to reach me: noorealamrifat@gmail.com
+- 📫 How to reach me: Mail
 
 
 
