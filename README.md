@@ -18,4 +18,5 @@ Visual Basic .Net, C, JavaScript, PHP, HTML5, CSS3
 
 
 
-[![Nazmul's github stats](https://github-readme-stats.vercel.app/api?username=na-rifat)](https://github.com/na-rifat/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-rifat&layout=compact)](https://github.com/na-rifat/github-readme-stats)
+[![Nazmul's github stats](https://github-readme-stats.vercel.app/api?username=na-rifat)](https://github.com/na-rifat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-rifat&layout=compact)](https://github.com/na-rifat/github-readme-stats)
