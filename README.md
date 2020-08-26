@@ -1,6 +1,7 @@
  ## Nura Alam Rifat 👋
  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:noorealamrifat@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
- 
+ ##Languages and tools
+ <img width="32" height="32" src="http://simpleicons.org/icons/javascript.svg" />
  ## Programming Languages
 ```
 Visual Basic .Net, C, JavaScript, PHP, HTML5, CSS3
