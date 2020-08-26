@@ -2,6 +2,7 @@
  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:noorealamrifat@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
  <h5>Languages and tools</h5>
  <img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
+ <img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" />
  ## Programming Languages
 ```
 Visual Basic .Net, C, JavaScript, PHP, HTML5, CSS3
