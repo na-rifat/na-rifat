@@ -4,9 +4,6 @@
  <div><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></div>
  <div><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /></div>
  ## Programming Languages
-```
-Visual Basic .Net, C, JavaScript, PHP, HTML5, CSS3
-```
 
 
 About me:
