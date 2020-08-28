@@ -3,8 +3,6 @@
  <h5>Languages and tools</h5>
  <div><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></div>
  <div><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /></div>
- ## Programming Languages
-
 
 About me:
 
