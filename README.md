@@ -1,10 +1,5 @@
  ## Nura Alam Rifat 👋
  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:noorealamrifat@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
- <h5>Languages and tools</h5>
-<div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
- <i class="devicon-php-plain colored"></i>
-</div>
 
 About me:
 
