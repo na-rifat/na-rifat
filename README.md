@@ -1,7 +1,7 @@
  ## Nura Alam Rifat 👋
  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:noorealamrifat@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
  <h5>Languages and tools</h5>
- <div><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /></div>
+ <div><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /> <img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/html.svg" /><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/css.svg" /><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/php.svg" /><img height="32" width="32" style="color: #F7DF1E;" src="https://cdn.worldvectorlogo.com/logos/wordpress.svg" /></div>
  <div></div>
 
 About me:
