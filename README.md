@@ -13,7 +13,7 @@ About me:
 
 
 
-[![Rifats's github stats](https://github-readme-stats.vercel.app/api?username=na-rifat)](https://github.com/na-rifat/github-readme-stats)
+[![Rifat's github stats](https://github-readme-stats.vercel.app/api?username=na-rifat)](https://github.com/na-rifat/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-rifat&layout=compact)](https://github.com/na-rifat/github-readme-stats)
 
 
